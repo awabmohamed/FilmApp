@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FilmApp/static/css/main.3292250f.css",
+    "main.js": "/FilmApp/static/js/main.e6cd43d3.js",
+    "index.html": "/FilmApp/index.html",
+    "static/media/search.svg": "/FilmApp/static/media/search.b1bdb23db4756f2927d27f6b02582b9b.svg",
+    "main.3292250f.css.map": "/FilmApp/static/css/main.3292250f.css.map",
+    "main.e6cd43d3.js.map": "/FilmApp/static/js/main.e6cd43d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.e6cd43d3.js"
+  ]
+}
