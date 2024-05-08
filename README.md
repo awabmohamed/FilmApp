@@ -1,3 +1,7 @@
+# Credit
+
+I built this app following the tutorial from JavaScript Mastery on youtube, so all source credit goes to them.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
